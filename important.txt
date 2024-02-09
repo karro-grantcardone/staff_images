@@ -9,3 +9,9 @@ javier         = "https://github.com/karro-grantcardone/staff_images/assets/1500
 cam            = "https://github.com/karro-grantcardone/staff_images/assets/150045303/fa204c9d-378c-4aaa-a528-23273f11c77e"
 robert         = "https://github.com/karro-grantcardone/staff_images/assets/150045303/45ac8de8-7e7a-48c0-9322-cc160fbc518d"
 andres         = "https://github.com/karro-grantcardone/staff_images/assets/150045303/cdbebdc8-5375-46c0-a41a-f543642ef1ce"
+![amanda](https://github.com/karro-grantcardone/staff_images/assets/150045303/bd96bc4b-c3c1-4657-bffd-972b57a75525)
+![fany](https://github.com/karro-grantcardone/staff_images/assets/150045303/1a508c1f-3135-484c-827e-481b56aa4a3b)
+![karro](https://github.com/karro-grantcardone/staff_images/assets/150045303/20a914ca-b849-42c0-9b18-f9aad7b2b528)
+![morgan](https://github.com/karro-grantcardone/staff_images/assets/150045303/91271bea-e5cf-49df-96f0-7916d53ecb2c)
+![skye](https://github.com/karro-grantcardone/staff_images/assets/150045303/5bc69e3e-e96d-4a4d-976e-2ccf8dfe6bbc)
+![tatianna](https://github.com/karro-grantcardone/staff_images/assets/150045303/223728c7-a32e-415b-aa5d-2eeb36da3de8)
