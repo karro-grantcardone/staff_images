@@ -1,0 +1,11 @@
+Client Realtions img url
+
+brandon styles = "https://github.com/karro-grantcardone/staff_images/assets/150045303/b00bfc7f-5bae-46c7-967a-8a2eb8b6e7b9"
+thalles        = "https://github.com/karro-grantcardone/staff_images/assets/150045303/a0841890-97af-4c4d-a862-b883ce01aeea"
+kara           = "https://github.com/karro-grantcardone/staff_images/assets/150045303/acc45f7f-b044-4133-ae1b-d50aaeb48bd0"
+nicoll         = "https://github.com/karro-grantcardone/staff_images/assets/150045303/56f836d3-400e-4d51-a8be-af6bd4b9327e"
+anthony        = "https://github.com/karro-grantcardone/staff_images/assets/150045303/8c7ffdd4-319d-4eb7-986f-dd5751ac2b0f"
+javier         = "https://github.com/karro-grantcardone/staff_images/assets/150045303/79587552-7265-4856-a91c-a7dd23736abd"
+cam            = "https://github.com/karro-grantcardone/staff_images/assets/150045303/fa204c9d-378c-4aaa-a528-23273f11c77e"
+robert         = "https://github.com/karro-grantcardone/staff_images/assets/150045303/45ac8de8-7e7a-48c0-9322-cc160fbc518d"
+andres         = "https://github.com/karro-grantcardone/staff_images/assets/150045303/cdbebdc8-5375-46c0-a41a-f543642ef1ce"
