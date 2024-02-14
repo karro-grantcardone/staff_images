@@ -15,3 +15,4 @@ andres         = "https://github.com/karro-grantcardone/staff_images/assets/1500
 ![morgan](https://github.com/karro-grantcardone/staff_images/assets/150045303/91271bea-e5cf-49df-96f0-7916d53ecb2c)
 ![skye](https://github.com/karro-grantcardone/staff_images/assets/150045303/5bc69e3e-e96d-4a4d-976e-2ccf8dfe6bbc)
 ![tatianna](https://github.com/karro-grantcardone/staff_images/assets/150045303/223728c7-a32e-415b-aa5d-2eeb36da3de8)
+![Julian Perez](https://github.com/karro-grantcardone/staff_images/assets/150045303/b460bea0-776f-49f1-92e2-fd4f3abc58b9)
