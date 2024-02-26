@@ -16,3 +16,6 @@ andres         = "https://github.com/karro-grantcardone/staff_images/assets/1500
 ![skye](https://github.com/karro-grantcardone/staff_images/assets/150045303/5bc69e3e-e96d-4a4d-976e-2ccf8dfe6bbc)
 ![tatianna](https://github.com/karro-grantcardone/staff_images/assets/150045303/223728c7-a32e-415b-aa5d-2eeb36da3de8)
 ![Julian Perez](https://github.com/karro-grantcardone/staff_images/assets/150045303/b460bea0-776f-49f1-92e2-fd4f3abc58b9)
+![Kolton](https://github.com/karro-grantcardone/staff_images/assets/150045303/73cd5e5f-9d15-411f-a676-976326382e3c)
+![Ryan_fisher](https://github.com/karro-grantcardone/staff_images/assets/150045303/8dd5b4aa-4caa-4b55-8b5d-1cb3adb04c3e)
+![sidney](https://github.com/karro-grantcardone/staff_images/assets/150045303/95dbc55c-db8c-4f26-8f7d-0d971bbbb841)
