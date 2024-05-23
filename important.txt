@@ -32,3 +32,5 @@ andres         = "https://github.com/karro-grantcardone/staff_images/assets/1500
 ![Walter Ferman](https://github.com/karro-grantcardone/staff_images/assets/150045303/ba8dd7cc-6654-4ba5-9f0c-3fb438dde160)
 ![angie useche](https://github.com/karro-grantcardone/staff_images/assets/150045303/35317365-ed85-47a2-9519-a6e12621b451)
 ![carina saenz](https://github.com/karro-grantcardone/staff_images/assets/150045303/da4a2d92-5e4b-4233-90ed-d39eaf94729a)
+![Tristanie Desir](https://github.com/karro-grantcardone/staff_images/assets/150045303/99dc7b9a-5087-48d3-9e1f-ded9d9aea37e)
+![vitaly vingert](https://github.com/karro-grantcardone/staff_images/assets/150045303/b2583342-fda4-4d25-9acf-90ec96afd084)
