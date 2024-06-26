@@ -39,3 +39,4 @@ andres         = "https://github.com/karro-grantcardone/staff_images/assets/1500
 ![Julian Oliveros](https://github.com/karro-grantcardone/staff_images/assets/150045303/d6776d99-5e71-49b0-a44c-0155e149eece)
 ![Patrick Coates-Williams](https://github.com/karro-grantcardone/staff_images/assets/150045303/1368c05e-0c3b-478a-b289-16e955bd340b)
 ![Garrett Blizzard](https://github.com/karro-grantcardone/staff_images/assets/150045303/5711e5cd-0100-466e-9ab6-633aef882717)
+![Danielle Franzone + Events Manager](https://github.com/karro-grantcardone/staff_images/assets/150045303/9124f85d-e5a1-4540-abc0-2b6f2ccc7c00)
